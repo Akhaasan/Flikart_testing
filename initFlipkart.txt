@@ -1,5 +1,5 @@
 
-codes for initialising flipkart
+//codes for testing flipkart page
 
 
 package cognizant.test.flipkart;
